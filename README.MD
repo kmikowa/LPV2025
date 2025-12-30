@@ -1,12 +1,10 @@
 Proyecto LPV
  Integrantes de grupo:
- -Camila 
- -Pepe
+ -Camila Caceres
+ -Leila Gauna
+ -Cristian Acero
 
  Descripcion del proyecto
- Sistema Domotico
+ Control de Mano Robotica
 
- -Componentes
- -Encoder
- -Motor paso a paso
- -arduino
+
